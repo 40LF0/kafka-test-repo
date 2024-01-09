@@ -1,0 +1,2 @@
+kafka_2.13-3.6.1/bin/kafka-topics.sh --create --bootstrap-server localhost:9092 --replication-factor 1 --partitions 3 --topic test
+kafka_2.13-3.6.1/bin/kafka-topics.sh --list --bootstrap-server localhost:9092
