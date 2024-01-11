@@ -1,0 +1,1 @@
+kafka_2.13-3.6.1/bin/kafka-console-consumer.sh --bootstrap-server 10.41.169.237:9092 --topic test --group testgroup --from-beginning
