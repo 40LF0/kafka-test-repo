@@ -1,6 +1,6 @@
-* * * * * /path/to/run_kafka_command.sh
-* * * * * sleep 10; /path/to/run_kafka_command.sh
-* * * * * sleep 20; /path/to/run_kafka_command.sh
-* * * * * sleep 30; /path/to/run_kafka_command.sh
-* * * * * sleep 40; /path/to/run_kafka_command.sh
-* * * * * sleep 50; /path/to/run_kafka_command.sh
+* * * * * /root/run_kafka_command.sh
+* * * * * sleep 10; /root/run_kafka_command.sh
+* * * * * sleep 20; /root/run_kafka_command.sh
+* * * * * sleep 30; /root/run_kafka_command.sh
+* * * * * sleep 40; /root/run_kafka_command.sh
+* * * * * sleep 50; /root/run_kafka_command.sh

@@ -1,0 +1,1 @@
+echo "10.41.148.226  broker-node" | sudo tee -a /etc/hosts

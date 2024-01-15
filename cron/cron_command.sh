@@ -8,3 +8,5 @@ service cron start
 service cron stop
 # 스케줄링 작업 상태 확인
 service cron status
+# 권한 부여
+chmod +x run_kafka_command.sh
